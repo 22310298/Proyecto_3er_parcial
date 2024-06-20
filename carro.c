@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <windows.h>
-//macro o identificador
+
 #define MAX_REGISTROS 50
 #define MAX_CHAR 50
 
